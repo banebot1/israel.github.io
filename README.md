@@ -334,14 +334,14 @@ h2{
     <li>or both imprisonment and fine at the discretion of the court.</li>
 </ul>
 
-</section>
+
         
         <section class="main-section" id="getting_started">
             <header>Evidence of Knowledge of insufficient funds</header>
             <p>If your check was presented to the bank within 90 days from the date of the check
                 and it bounces due to insufficient funds it is <mark>prima facie</mark> Evidence
                 that you knew you don't have enough funds to cover the check</p>
-            </p>
+            
             
         </section>
         
@@ -357,7 +357,7 @@ h2{
                         <li>written, printed, or stamped on the check or</li>
                         <li>attached to the check</li>
                 </ul>
-                </li>
+               
                 <li>Explanation must be in plain language.</li> 
             </ul>
             <pre><code>If the reason is "insufficient funds or credit" that must always be <u>clearly</u> stated in the <mark>notice of hishonor</mark> or refusal.</code></pre>
@@ -365,7 +365,7 @@ h2{
             <h3>Why is it important?</h3>
             <p>Someone might try to escape <mark>criminal liability</mark> by <u>stopping payment</u> on a check to make it look like they hadfunds but just canceled the check for another reason.</p>
 <p>This loophole was dimolished by making the bank clearly state the problem on the notice of dishonor.</p>
-        </section>
+        
         
         <section class="main-section" id="endpoints">
             <header>Credit Construed</header>
